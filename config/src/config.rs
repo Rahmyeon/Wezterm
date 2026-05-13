@@ -1,3 +1,4 @@
+use crate::CellWidth;
 use crate::background::{BackgroundLayer, Gradient};
 use crate::bell::{AudibleBell, EasingFunction, VisualBell};
 use crate::color::{
